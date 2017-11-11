@@ -1,0 +1,23 @@
+extra small devices
+Phones <768px
+container width:auto
+column width:auto
+.col-xs-
+
+small devices
+>768
+container width:750
+column width 62px
+.col-sm
+
+medium devices
+>992
+container width:970
+column width 81px
+.col-md
+
+large devices
+>1200
+container width:1170
+column width 97px
+.col-lg
