@@ -1,0 +1,32 @@
+git init
+git add .
+git status
+git commit -m "second commit"
+git remote add origin https://github.com/artemislamov/artemislamov.github.io.git
+git push -u origin master
+git clone
+
+git log --graph --all --decorate --online
+---
+работа с ветками
+---
+git branch name - создать новую ветку
+git checkout name - переключиться на новую ветку
+git branch - проверить ветку
+git merche name - откатиться на какую то ветку
+
+
+
+
+
+
+
+/*
+ *	If Error: fatal: remote origin already exists.
+ *	git remote -v show // смотрим, чтобы стоял верный путь
+ *	git remote rm origin //если не верный. удаляем
+ *	git remote add myorigin git@github.com:myname/myprojectname.git // добавляем заново репозиторий
+ *	// где Again "origin" is the name of the remote repository.
+ *	git push -u origin master
+ */
+
