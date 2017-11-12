@@ -1,0 +1,21 @@
+.row{
+    border: solid 1px black;
+    height: 30px;
+}
+
+.col-lg-1{
+    border: solid 1px red;
+}
+
+.col-md-3{
+    border: solid 1px blue;
+}
+
+.col-md-6{
+
+}
+
+.col-md-4{
+    border: solid 1px green;
+
+}
